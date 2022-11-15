@@ -16,6 +16,7 @@
     "branches": [
       {
         "name": "main",
+        "envVars": ${{envVars}},
         "isProductionBranch": true
       }
     ]
